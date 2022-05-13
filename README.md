@@ -1,7 +1,11 @@
-# Awesome Project Build with TypeORM
+Tech Stacks:
+- Node.js
+- Typescript
+- Mysql
+- Typeorm
+- Jwt
+- Express
+- Passport
+- React
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+With this project people can register the system by their email,their facebook account or their google account.They can add their favorite movies and actors on the system.They can like and make comments  the others posts.They can share their posts.
